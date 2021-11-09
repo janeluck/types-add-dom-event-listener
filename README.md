@@ -1,2 +1,2 @@
-# types-add-dom-event-listener
+# types@add-dom-event-listener
 TypeScript definitions for add-dom-event-listener
